@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformIOOperations", "Perf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeData", "ConsumeData\ConsumeData.csproj", "{FF3F7101-83B0-45C7-A291-D1D0C27CB424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingLINQ", "UsingLINQ\UsingLINQ.csproj", "{0656B348-74F5-4B0D-B37A-EDC41ABB10AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF3F7101-83B0-45C7-A291-D1D0C27CB424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3F7101-83B0-45C7-A291-D1D0C27CB424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3F7101-83B0-45C7-A291-D1D0C27CB424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0656B348-74F5-4B0D-B37A-EDC41ABB10AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0656B348-74F5-4B0D-B37A-EDC41ABB10AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0656B348-74F5-4B0D-B37A-EDC41ABB10AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0656B348-74F5-4B0D-B37A-EDC41ABB10AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
